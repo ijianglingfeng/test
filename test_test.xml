@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin" fetch="ssh://git@github.com" />
+    <default remote="origin" sync-c="true" revision="refs/heads/master" />
+    
+    <project path="app" name="ijianglingfeng/test_app" />
+    <project path="gradle" name="ijianglingfeng/test_gradle" />
+    <project path="screenshot" name="ijianglingfeng/test_screenshot" />
+    <project path="swipeback" name="ijianglingfeng/test_swipeback" />
+   
+</manifest>
