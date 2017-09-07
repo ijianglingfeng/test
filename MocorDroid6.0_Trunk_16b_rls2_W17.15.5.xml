@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin" fetch="ssh://git@github.com" />
+    <default remote="origin" sync-c="true" revision="refs/heads/master" />
+    <project path="build" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_build" >
+       <copyfile src="core/root.mk" dest="Makefile" />
+    </project>
+
+    <project path="abi" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_abi" />
+    <project path="art" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_art" />
+    <project path="bionic" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_bionic" />
+    <project path="bootable" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_bootable" />
+    <project path="chipram" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_chipram" />
+    <project path="cts" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_cts" />
+    <project path="dalvik" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_dalvik" />
+    <project path="developers" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_developers" />
+    <project path="development" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_development" />
+    <project path="device" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_device" />
+    <project path="docs" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_docs" />
+    <project path="external" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_external" />
+    <project path="frameworks" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_frameworks" />
+    <project path="hardware" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_hardware" />
+    <project path="kernel" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_kernel" />
+    <project path="libcore" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_libcore" />
+    <project path="libnativehelper" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_libnativehelper" />
+    <project path="modem" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_modem" />
+    <project path="ndk" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_ndk" />
+    <project path="packages" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_packages" />
+    <project path="pdk" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_pdk" />
+    <project path="platform_testing" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_platform_testing" />
+    <project path="prebuilts" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_prebuilts" />
+    <project path="sdk" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_sdk" />
+    <project path="sprdisk" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_sprdisk" />
+    <project path="system" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_system" />
+    <project path="tools" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_tools" />
+    <project path="u-boot64" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_u-boot64" />
+    <project path="vendor" name="ijianglingfeng/MocorDroid6.0_Trunk_16b_rls2_W17.15.5_vendor" />
+</manifest>
